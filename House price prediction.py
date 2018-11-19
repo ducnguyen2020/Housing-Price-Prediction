@@ -1,6 +1,5 @@
 #Final Project Data Mining
 #Author: Duc Nguyen
-#Professor: Steve Bogaerts
 
 
 ####NOTE: We commented a lot of our codes out (green) due to the fact 
